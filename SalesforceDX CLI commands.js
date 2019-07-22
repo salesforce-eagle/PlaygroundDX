@@ -1,4 +1,4 @@
-  force:alias:list                    # list username aliases for the Salesforce CLI
+ /* force:alias:list                    # list username aliases for the Salesforce CLI
   force:alias:set                     # set username aliases for the Salesforce CLI
   force:apex:class:create             # create an Apex class
   force:apex:execute                  # execute anonymous Apex code
@@ -99,4 +99,4 @@
   force:user:password:generate        # generate a password for scratch org users
   force:user:permset:assign           # assign a permission set to one or more users of an org
   force:visualforce:component:create  # create a Visualforce component
-  force:visualforce:page:create       # create a Visualforce page
+  force:visualforce:page:create       # create a Visualforce page*/
