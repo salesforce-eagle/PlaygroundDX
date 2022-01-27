@@ -1,4 +1,4 @@
- force:alias:list                    # list username aliases for the Salesforce CLI
+  force:alias:list                    # list username aliases for the Salesforce CLI
   force:alias:set                     # set username aliases for the Salesforce CLI
   force:apex:class:create             # create an Apex class
   force:apex:execute                  # execute anonymous Apex code
